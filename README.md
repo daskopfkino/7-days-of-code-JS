@@ -5,7 +5,7 @@
 Depois de terminar a formação Iniciante em Programação da Alura, resolvi participar do desafio 7 Days of Code para treinar e fixar os meus conhecimentos. O tema deste desafio é lógica de programação em JavaScript.
 
 - [X] Dia 1: Operação de igualdade entre valores
-- [ ] Dia 2
+- [X] Dia 2: Armazenando variáveis para personalizar a experi
 - [ ] Dia 3
 - [ ] Dia 4
 - [ ] Dia 5

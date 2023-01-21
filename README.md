@@ -6,7 +6,7 @@ Depois de terminar a formação Iniciante em Programação da Alura, resolvi par
 
 - [X] Dia 1: Operação de igualdade entre valores
 - [X] Dia 2: Armazenando variáveis para personalizar a experi
-- [ ] Dia 3
+- [X] Dia 3: Estruturas de controle de fluxo
 - [ ] Dia 4
 - [ ] Dia 5
 - [ ] Dia 6

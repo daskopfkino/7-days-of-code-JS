@@ -17,7 +17,7 @@ Depois de terminar a formação Iniciante em Programação da Alura, resolvi par
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 Por mais que alguns desafios seria interessante utilizar outras linguagens também, como HTML e CSS, escolhi utilizar apenas JavaScript por questão de tempo para terminar o desafio.
 
-/n
+
 
 :beginner: Este é o meu primeiro projeto após a formação e todos os códigos que vou colocar aqui foram feitos por mim. Como ainda estou em processo de aprendizagem e tentei ser criativa com as soluções, caso encontre algum erro, por favor entre em contato comigo.
 

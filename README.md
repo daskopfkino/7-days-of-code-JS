@@ -10,7 +10,7 @@ Depois de terminar a formação Iniciante em Programação da Alura, resolvi par
 - [X] Dia 2: Armazenando variáveis para personalizar a experi
 - [X] Dia 3: Estruturas de controle de fluxo
 - [X] Dia 4: Loops e randomização
-- [ ] Dia 5
+- [X] Dia 5: Listas
 - [ ] Dia 6
 - [ ] Dia 7
 
